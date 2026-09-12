@@ -1,13 +1,14 @@
-# Arquitetura Data Lake na AWS, Camada de Mensagens com o Kafka. Desenvolver Producers e Consumer em Java e por último criação de 2 pipeline com StreamSets.
+# Arquitetura de Data Lake na AWS: camada de mensagens com Kafka e StreamSets
 
 ![1](https://github.com/pand-eX/Camada_Mensagem_Data-Lake/blob/main/DataLake-Camada-Mensagem/assets/1.png)
-Essa será a arquitetura quando todo o projeto estiver pronto, mas irei dividir o projeto para não ficar muito grande então cada camada irei implementar e separar por projeto.
-Camada de Mensagem com Kafka.
+Esta será a arquitetura quando todo o projeto estiver concluído. Para manter o conteúdo objetivo, cada camada será implementada e apresentada em um projeto separado.
+
+Este projeto aborda a camada de mensagens com Kafka, incluindo producers e consumers em Java e dois pipelines com StreamSets.
 
 Todos os scripts estarão em anexo.
 
 ## Iniciando o Projeto
-Iremos criar uma camada de Mensagem na construção do Data Lake de Projetos Anteriores e veremos em projetos finais a construção total de um Data Lake.
+Criaremos uma camada de mensagens a partir dos projetos anteriores. Nos projetos finais, será possível visualizar a construção completa do Data Lake.
 
 
 ![2](https://github.com/pand-eX/Camada_Mensagem_Data-Lake/blob/main/DataLake-Camada-Mensagem/assets/2.png)
